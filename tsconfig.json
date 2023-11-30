@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM", "es2022"],
+    "target": "ESNext",
+    "outDir": "build",
+  }
+}
