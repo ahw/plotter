@@ -1,3 +1,5 @@
+import { createSvgElement } from "./utils/svg";
+
 function shape({
   shape,
   attrs,
@@ -37,10 +39,7 @@ function main() {
 
   // SVG canvas and particle elements
   const xmlns = "http://www.w3.org/2000/svg";
-  const svgCanvas = document.createElementNS(xmlns, "svg");
-  svgCanvas.setAttribute("width", "800");
-  svgCanvas.setAttribute("height", "600");
-  svgCanvas.setAttribute("viewBox", "0 0 800 800");
+  const svgCanvas = createSvgElement({ letter: { x: 70, y: 10 }});
   svgCanvas.style.cssText = "border:1px solid black";
   document.getElementById("root")?.appendChild(svgCanvas);
   const particle1Element = document.createElementNS(xmlns, "circle");
