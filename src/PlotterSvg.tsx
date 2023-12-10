@@ -1,10 +1,10 @@
 import React, { ReactElement } from "react";
 
-export function PlotterSvg(options?: {
+export function PlotterSvg(options: React.PropsWithChildren<{
   a3?: boolean;
   letter?: { x: number; y: number };
   css?: React.CSSProperties;
-}): ReactElement {
+}>): ReactElement {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -32,6 +32,7 @@ export function PlotterSvg(options?: {
           style={{ stroke: "#ffff00", fill: '#ffff00', fillOpacity: 1 }}
         />
       )}
+      {options.children}
     </svg>
   );
 }
