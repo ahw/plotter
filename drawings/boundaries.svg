@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="420mm"
+   viewBox="0 0 297 420"
+   version="1.1"
+   id="svg104534"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="boundaries.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview104536"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.22364931"
+     inkscape:cx="145.31679"
+     inkscape:cy="988.15418"
+     inkscape:window-width="1512"
+     inkscape:window-height="858"
+     inkscape:window-x="586"
+     inkscape:window-y="1478"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs104531" />
+  <g
+     inkscape:label="1 boundaries"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ebebec;stroke-width:1;stroke-linecap:square;stop-color:#000000"
+       id="rect104707"
+       width="215.89999"
+       height="279.39999"
+       x="81.100006"
+       y="0" />
+    <rect
+       style="fill:#f6f9f5;fill-opacity:1;stroke-width:1;stroke-linecap:square;stop-color:#000000"
+       id="rect104709"
+       width="144"
+       height="111"
+       x="153"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="27.521315"
+       y="311.80652"
+       id="text109961"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="27.521315"
+         y="311.80652"
+         id="tspan109963">Positive Y direction is UP</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="27.521315"
+         y="325.29715"
+         id="tspan109967">Positive X direction is RIGHT</tspan></text>
+  </g>
+</svg>
