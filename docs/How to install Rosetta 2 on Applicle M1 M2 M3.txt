@@ -1,0 +1,11 @@
+How to install Rosetta 2 on Apple Silicon M1/M2/M3 ARM Mac
+
+1. Open Terminal and enter the following command to run:
+  
+softwareupdate --install-rosetta
+
+After running the command, the Rosetta installation program will start. Agree to the license to continue with the installation.
+
+2. You can also run the following command in Terminal to skip agreeing to the license and start the installation directly:
+
+/usr/sbin/softwareupdate --install-rosetta --agree-to-license

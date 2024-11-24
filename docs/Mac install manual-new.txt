@@ -1,0 +1,3 @@
+1. Double-click the UUNA_KAT-3.8.4.pkg installer.
+2. Open the terminal and enter [sudo chmod -R 777 /Applications/UUNA_KAT.app] and press Enter. You will be asked to enter your computer password. Enter the password (no characters can be seen on the terminal when prompted to enter the password) and press Enter.
+3. If an error message appears saying that the app cannot be found, it may not be the terminal opened under the current folder. You can select the folder where the app is located, right-click and select "New Terminal at Folder" to reopen the terminal.
